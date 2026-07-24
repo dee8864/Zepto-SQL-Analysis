@@ -79,3 +79,5 @@ Throughout this journey, I documented every step in the SQL file, wrote comments
 • A portfolio project is only as good as the story behind it. This README explains my decisions, struggles (encoding errors, zero-price rows, duplicate names), and solutions to show recruiters how I think, not just what I wrote.
 
 This project is open for feedback, collaboration, or reuse. If you are a hiring manager, feel free to run the SQL file against any PostgreSQL instance to verify results. Thank you for reading my journey from messy CSV to clean insights.
+
+![dashboard visulas](https://github.com/dee8864/Zepto-SQL-Analysis/blob/main/%23VISUALS%20Zepto%20SQL%20Analysis.png)
